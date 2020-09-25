@@ -1,3 +1,9 @@
+body {
+  font-family: 'Playfair Display', serif;
+}
+h1, h2, h3 {
+  font-family: 'Cairo', sans-serif;
+}
 .fa {
   padding: 50px;
   font-size: 30px;
@@ -12,4 +18,20 @@
 .fa-facebook {
   background: #000;
   color: tomato;
+}
+.case {
+  display: flex;
+  height: 300px;
+  width: 200px;
+  padding: 20px;
+}
+.cafe{
+  padding: 5px;
+}
+.canela {
+  padding: 5px;
+}
+img {
+  height: 300px;
+  width: 200px;
 }
