@@ -35,3 +35,17 @@ img {
   height: 300px;
   width: 200px;
 }
+footer {
+  background-color: crimson;
+}
+.box1 {
+    background-color: gold;
+    padding: 10px;
+}
+.box2 {
+  background-color: blue;
+  padding: 20px;
+}
+.container {
+  background-color: bisque;
+}
